@@ -18,3 +18,16 @@ Você poderá estudar o conteúdo [clica aqui, abençoado(a)](https://docs.pipz.
 
 
 ## Vamos lá! Começe a atividade logo abaixo 👇👇👇
+
+# Engenharia de requisitos - Markdown.
+
+## Conceito: 
+
+Processo de indentificação. análise, documentação e verificação dos requisitos de sistemas a ser desenvolvido, tendo como finalidade, gerenciar os requisitos de sistema/software.
+Temos como os principais tipos de requisitos ultilizados na área:
+
+* **Funcionais**: Descrevem as funcioalidades específicas que o sistema deve fornecer, ou seja, o que o sistema deve fazer. Tendo como exemplo: Um aplicativo de delivery de comida deve permitir que os usuários vizualizem o status do pedido em tempo real.
+
+![Exemplo em imagem do requisito funcional]
+
+* **Não Funcionais**: Descrevem características do sistema, como desempenho, segurança, usabilidade, com o intuito sobre como o sistema deve funcionar. Tendo coo exemplo: Um sistema que deve ser capaz de suportar 1000 usuários simultâneos, sem comprometer a performance.
